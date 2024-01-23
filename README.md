@@ -41,5 +41,6 @@ If you use the data, code, or findings from this study in your work, please cite
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
 
