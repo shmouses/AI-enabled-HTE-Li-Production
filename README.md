@@ -1,6 +1,6 @@
 # AI-enabled-HTE-Li-Production
 
-About the Project
+## About the Project
 This repository contains the research, data, and findings of our study on an innovative approach for lithium brine softening. Our work focuses on the conversion of lithium chloride (LiCl) into lithium carbonate (Li2CO3) in a way that integrates carbon dioxide (CO2(g)) capture, thereby transforming a key industrial process into an opportunity for carbon capture. This method not only produces high yields of lithium carbonate but also enhances the sustainability and efficiency of battery manufacturing.
 
 ## Key Highlights
