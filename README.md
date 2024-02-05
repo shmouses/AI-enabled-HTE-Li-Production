@@ -12,24 +12,23 @@ Focus on elemental concentrations of carbon, nitrogen, and lithium for process o
 Enhanced sustainability in battery-grade lithium production.
 Repository Structure
 data/: Contains datasets used and generated during the study.
-scripts/: Scripts for data analysis and simulations.
 docs/: Additional documentation including detailed methodology, supplementary material, and figures.
-results/: Compiled results, charts, and graphs.
 paper/: The final version of the journal paper and any draft versions.
 
 
-## Installation and Usage
-Instructions on how to set up the environment, install necessary dependencies, and run the scripts. Provide specific commands and steps as required.
+## Usage
+To engage with this project:
 
-git clone https://github.com/yourusername/your-repo-name.git
-
+Begin with the 0_Load_Clean_Data.ipynb notebook to load and preprocess the data.
+Proceed to the 1_Active_Learning_Cycle.ipynb notebook to explore the active learning methodologies applied in this research.
+Utilize the 2_Paper_Reproduction.ipynb notebook to replicate all paper figures, analyses, and supplementary information.
 
 ## Citing Our Work
 If you use the data, code, or findings from this study in your work, please cite our paper as follows:
 
-@article{yourname2024lithium,
-  title={Innovative Approach  to Lithium Brine Softening with Integrated Carbon Capture},
-  author={XXX},
+@article{Mousavi2024lithium,
+  title={AI-Driven Optimization of Battery Grade Lithium Carbonate Production},
+  author={S. Shayan Mousavi Masouleh, Corey A. Sanz, Ryan P. Jansonius, Samuel Shi, Maria J. Gendron Romero, Jason E. Hein, Jason Hattrick-Simpers},
   journal={Journal Name},
   volume={xx},
   number={xx},
