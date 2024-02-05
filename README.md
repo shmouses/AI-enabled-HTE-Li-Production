@@ -19,9 +19,11 @@ paper/: The final version of the journal paper and any draft versions.
 ## Usage
 To engage with this project:
 
-Begin with the 0_Load_Clean_Data.ipynb notebook to load and preprocess the data.
-Proceed to the 1_Active_Learning_Cycle.ipynb notebook to explore the active learning methodologies applied in this research.
-Utilize the 2_Paper_Reproduction.ipynb notebook to replicate all paper figures, analyses, and supplementary information.
+- Begin with the 0_Load_Clean_Data.ipynb notebook to load and preprocess the data.
+
+- Proceed to the 1_Active_Learning_Cycle.ipynb notebook to explore the active learning methodologies applied in this research.
+- 
+- Utilize the 2_Paper_Reproduction.ipynb notebook to replicate all paper figures, analyses, and supplementary information.
 
 ## Citing Our Work
 If you use the data, code, or findings from this study in your work, please cite our paper as follows:
