@@ -7,13 +7,16 @@ This repository contains the research, data, and findings of our study on an inn
 
 ## Key Highlights
 Utilization of CO2(g) in the lithium softening reaction.
+
 Active learning-driven high-throughput experimentation methodology.
+
 Focus on elemental concentrations of carbon, nitrogen, and lithium for process optimization.
 Enhanced sustainability in battery-grade lithium production.
+
 Repository Structure
-data/: Contains datasets used and generated during the study.
-docs/: Additional documentation including detailed methodology, supplementary material, and figures.
-paper/: The final version of the journal paper and any draft versions.
+- data/: Contains datasets used and generated during the study.
+- docs/: Additional documentation including detailed methodology, supplementary material, and figures.
+- paper/: The final version of the journal paper and any draft versions.
 
 
 ## Usage
