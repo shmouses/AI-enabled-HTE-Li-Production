@@ -29,15 +29,16 @@ To engage with this project:
 ## Citing Our Work
 If you use the data, code, or findings from this study in your work, please cite our paper as follows:
 
+## Citing Our Work
+If you use the data, code, or findings from this study in your work, please cite our paper as follows:
+
+```bibtex
 @article{Mousavi2024lithium,
   title={AI-Driven Optimization of Battery Grade Lithium Carbonate Production},
   author={S. Shayan Mousavi Masouleh, Corey A. Sanz, Ryan P. Jansonius, Samuel Shi, Maria J. Gendron Romero, Jason E. Hein, Jason Hattrick-Simpers},
-  journal={Journal Name},
-  volume={xx},
-  number={xx},
-  pages={xx-xx},
+  journal={Journal of Materials Chemistry A},
   year={2024},
-  publisher={Publisher}
+  doi={10.48550/arXiv.2402.07000},
 }
 
 
