@@ -32,15 +32,19 @@ If you use the data, code, or findings from this study in your work, please cite
 ## Citing Our Work
 If you use the data, code, or findings from this study in your work, please cite our paper as follows:
 
-- Artificial Intelligence-Enabled Optimization of Battery-Grade Lithium Carbonate Production by S. Shayan Mousavi Masouleh, Corey A. Sanz, Ryan P. Jansonius, Samuel Shi, Maria J. Gendron Romero, Jason E. Hein, Jason Hattrick-Simpers. This study introduces an alternative softening process for lithium extraction using CO2, enhancing carbon efficiency in the battery metal supply chain. Published in the Journal of Materials Chemistry A, 2024. DOI: https://doi.org/10.48550/arXiv.2402.07000
+### APA
+Masouleh, S. S., Sanz, C. A., Jansonius, R. P., Shi, S., Romero, M. J. G., Hein, J. E., & Hattrick-Simpers, J. (2024). Artificial Intelligence-Enabled Optimization of Battery-Grade Lithium Carbonate Production. *arXiv preprint arXiv:2402.07000*.
 
+### BibTeX
 @article{Mousavi2024lithium,
-  title={AI-Driven Optimization of Battery Grade Lithium Carbonate Production},
+  title={Artificial Intelligence-Enabled Optimization of Battery-Grade Lithium Carbonate Production},
   author={S. Shayan Mousavi Masouleh, Corey A. Sanz, Ryan P. Jansonius, Samuel Shi, Maria J. Gendron Romero, Jason E. Hein, Jason Hattrick-Simpers},
-  journal={Journal of Materials Chemistry A},
+  journal={arXiv preprint arXiv:2402.07000},
   year={2024},
-  doi={10.48550/arXiv.2402.07000},
+  url={https://doi.org/10.48550/arXiv.2402.07000}
 }
+
+We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.
 
 
 
