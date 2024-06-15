@@ -2,7 +2,8 @@
 
 
 ## About the Project
-This repository contains the research, data, and findings of our study on an innovative approach for lithium brine softening. Our work focuses on the conversion of lithium chloride (LiCl) into lithium carbonate (Li2CO3) in a way that integrates carbon dioxide (CO2(g)) capture, thereby transforming a key industrial process into an opportunity for carbon capture. This method not only produces high yields of lithium carbonate but also enhances the sustainability and efficiency of battery manufacturing.
+This repository hosts the scripts and AI-driven tools developed as part of our innovative study on lithium brine softening. Our research introduces an AI-enabled, active learning high-throughput method that integrates carbon dioxide (CO2(g)) capture into the conversion of lithium chloride (LiCl) to lithium carbonate (Li2CO3). This approach not only streamlines the production process but also enhances the sustainability of battery manufacturing by significantly reducing carbon emissions. The materials within include the developed machine learning models, data, and key findings that underline our advancements in efficient and eco-friendly battery material production.
+
 
 
 ## Key Highlights
