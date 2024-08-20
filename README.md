@@ -21,11 +21,22 @@ Repository Structure
 
 
 ## Usage
+
 To engage with this project:
 
-- Begin with the 0_Load_Clean_Data.ipynb notebook to load and preprocess the data.
-- Proceed to the 1_Active_Learning_Cycle.ipynb notebook to explore the active learning methodologies applied in this research.
-- Utilize the 2_Paper_Reproduction.ipynb notebook to replicate all paper figures, analyses, and supplementary information.
+1. **Load and Preprocess Data**
+   - Begin with the `0_Load_Clean_Data.ipynb` notebook to load and preprocess the data.
+
+2. **Explore Active Learning Methodologies**
+   - Proceed to the `1_Active_Learning_Cycle.ipynb` notebook to explore the active learning methodologies applied in this research.
+
+3. **Reproduce Paper Figures and Analyses**
+   - Utilize the `2_Paper_Reproduction.ipynb` notebook to replicate all paper figures, analyses, and supplementary information.
+
+4. **Utilize Trained Models for Prediction**
+   - The trained GPR models, including feature standard scalers and GPR models for each of the active learning iterations, are available in the `/models` directory in `.pkl` format. These models can be directly loaded and used for predictions without the need for retraining. Instructions for loading and using these models are provided within the notebooks, ensuring that users can easily integrate these models into their work.
+
+
 
 ## Citing Our Work
 If you use the data, code, or findings from this study in your work, please cite our paper as follows:
