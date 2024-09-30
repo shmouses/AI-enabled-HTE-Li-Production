@@ -5,7 +5,6 @@ anyio @ file:///C:/ci/anyio_1644463701441/work/dist
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
 arrow==1.2.3
-arviz==0.15.1
 asciitree==0.3.3
 ase==3.22.1
 asgiref==3.7.2
@@ -35,7 +34,6 @@ comm @ file:///C:/b/abs_1419earm7u/croot/comm_1671231131638/work
 configobj==5.0.8
 configparser==6.0.1
 contourpy==1.1.0
-corner==2.2.1
 cryptography @ file:///C:/b/abs_b28tzldafl/croot/cryptography_1686613103834/work
 cycler==0.11.0
 Cython==0.29.35
@@ -46,11 +44,7 @@ decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 dill==0.3.6
 distributed==2023.5.0
-Django==4.2.2
-dm==1.3
-dm3-lib @ file:///C:/Users/mousas10/Documents/Projects/TiO2_bandgap/TiO2/pythondev/pyDM3reader
 dnspython==2.4.2
-emcee==3.1.4
 emmet-core==0.67.5
 entrypoints @ file:///C:/ci/entrypoints_1649926621247/work
 et-xmlfile==1.1.0
@@ -75,13 +69,7 @@ grpcio==1.59.0
 h5netcdf==1.1.0
 h5py==3.8.0
 httplib2==0.22.0
-hyperspy==1.7.5
-hyperspy-gui-ipywidgets==1.5.0
-hyperspy-gui-traitsui==1.5.3
 idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
-image==1.5.33
-imagecodecs==2023.3.16
-imageio==2.27.0
 importlib-metadata @ file:///C:/b/abs_20ndzb2j6v/croot/importlib-metadata_1678997085534/work
 importlib-resources==5.12.0
 ipykernel @ file:///C:/b/abs_b4f07tbsyd/croot/ipykernel_1672767104060/work
@@ -92,8 +80,6 @@ ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/wor
 ipywidgets==8.0.6
 isodate==0.6.1
 isoduration==20.11.0
-jax==0.3.14
-jaxlib==0.3.14
 jedi @ file:///C:/ci/jedi_1644315425835/work
 Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
 joblib==1.2.0
@@ -113,7 +99,6 @@ jupyterlab==4.0.2
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-widgets==3.0.7
 jupyterlab_server @ file:///C:/b/abs_e0qqsihjvl/croot/jupyterlab_server_1680792526136/work
-keras==2.13.1
 kiwisolver==1.4.4
 latexcodec==2.0.1
 lazy_loader==0.2
@@ -143,20 +128,15 @@ nbclassic @ file:///C:/b/abs_c8_rs7b3zw/croot/nbclassic_1681756186106/work
 nbclient @ file:///C:/ci/nbclient_1650290386732/work
 nbconvert @ file:///C:/b/abs_4av3q4okro/croot/nbconvert_1668450658054/work
 nbformat @ file:///C:/b/abs_85_3g7dkt4/croot/nbformat_1670352343720/work
-ncempy==1.10.0
 nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
 networkx==3.1
 nibabel==5.2.1
 nipype==1.8.6
 notebook @ file:///C:/b/abs_49d8mc_lpe/croot/notebook_1681756182078/work
 notebook_shim @ file:///C:/b/abs_ebfczttg6x/croot/notebook-shim_1668160590914/work
-numba==0.57.0
 numcodecs==0.11.0
-numexpr==2.8.4
 numpy==1.24.3
-numpyro==0.10.1
 oauthlib==3.2.2
-opencv-python==4.8.0.76
 openpyxl==3.1.2
 opt-einsum==3.3.0
 packaging @ file:///C:/b/abs_ed_kb9w6g4/croot/packaging_1678965418855/work
@@ -168,13 +148,9 @@ partd==1.4.0
 pathlib==1.0.1
 patsy==0.5.4
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.5.0
 Pint==0.21.1
 pkgutil_resolve_name @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_81wm45v3kb/croots/recipe/pkgutil-resolve-name_1661463352381/work
 platformdirs @ file:///C:/b/abs_73cc5cz_1u/croots/recipe/platformdirs_1662711386458/work
-Platypus==1.0
-Platypus-Opt==1.2.0
-plotly==5.15.0
 ply==3.11
 prettytable==3.8.0
 prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
@@ -191,11 +167,6 @@ pydantic==1.10.12
 pydot==2.0.0
 pyerfa==2.0.0.3
 pyface==8.0.0
-Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
-pymatgen==2023.8.10
-pymongo==4.5.0
-PyMuPDF==1.23.26
-PyMuPDFb==1.23.22
 pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
 pyparsing==3.1.0
 pypng==0.20220715.0
@@ -205,7 +176,6 @@ python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-json-logger @ file:///C:/b/abs_cblnsm6puj/croot/python-json-logger_1683824130469/work
 pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
 pyUSID==0.0.10.post2
-PyWavelets==1.4.1
 pywin32==305.1
 pywinpty @ file:///C:/b/abs_73vshmevwq/croot/pywinpty_1677609966356/work/target/wheels/pywinpty-2.0.10-cp38-none-win_amd64.whl
 pyxnat==1.6.2
@@ -242,12 +212,6 @@ sympy==1.12
 tabulate==0.9.0
 tblib==1.7.0
 tenacity==8.2.2
-tensorboard==2.13.0
-tensorboard-data-server==0.7.2
-tensorflow==2.13.0
-tensorflow-estimator==2.13.0
-tensorflow-intel==2.13.0
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
 terminado @ file:///C:/b/abs_25nakickad/croot/terminado_1671751845491/work
 threadpoolctl==3.1.0
